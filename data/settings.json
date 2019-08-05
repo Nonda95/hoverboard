@@ -1,7 +1,7 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
+    "name": "GDG Wroclaw",
+    "twitter": "gdgwroclaw",
     "blog": "https://medium.com/gdg-lviv",
     "url": "http://lviv.gdg.org.ua/"
   },
@@ -26,23 +26,19 @@
     },
     {
       "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
+      "label": "Speakers",
+      "status": "disabled",
+      "disabled": true
     },
     {
       "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "Schedule",
+      "status": "disabled"
     },
     {
       "route": "team",
-      "permalink": "/team/",
-      "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
+      "label": "Team",
+      "status": "disabled"
     }
   ],
   "heroSettings": {
@@ -149,23 +145,19 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDG-Wroclaw/events/263200333/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/gdgwroclaw/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/devfest_wro"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.instagram.com/devfestpolandwroclaw/"
       }
     ],
     "share": [
@@ -179,7 +171,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "wroclawgdg@gmail.com",
   "signInProviders": {
     "providersData": [
       {
