@@ -2,21 +2,20 @@
   "organizer": {
     "name": "GDG Wroclaw",
     "twitter": "gdgwroclaw",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "https://www.meetup.com/GDG-Wroclaw/events/263200333/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFest Wroclaw",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
-  "disabledSchedule": false,
+  "hashtag": "dfwro",
+  "disabledSchedule": true,
   "showSessionShortAbstract": true,
   "navigation": [
     {
@@ -33,12 +32,24 @@
     {
       "route": "schedule",
       "label": "Schedule",
-      "status": "disabled"
+      "status": "disabled",
+      "disabled": true
     },
     {
       "route": "team",
       "label": "Team",
-      "status": "disabled"
+      "status": "disabled",
+      "disabled": true
+    },
+    {
+      "route": "cfp",
+      "permalink": "https://bit.ly/df19-cfp",
+      "label": "CFP"
+    },
+    {
+      "route": "2018",
+      "permalink": "https://wroclaw.devfest.pl/",
+      "label": "2018"
     }
   ],
   "heroSettings": {
@@ -102,6 +113,14 @@
     "cod": {
       "title": "Code Of Conduct",
       "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "privacyNote": {
+      "title": "Privacy Note",
+      "metaDescription": "Privacy Note Statement",
       "background": {
         "color": "#fff"
       },

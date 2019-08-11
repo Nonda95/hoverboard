@@ -1,5 +1,5 @@
 {
-  "title": "GDG DevFest Poland 2019 in Wroclaw",
+  "title": "GDG DevFest Wroclaw 2019",
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
@@ -12,6 +12,7 @@
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Buy ticket",
+  "becomeASponsor": "Become a sponsor",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -24,6 +25,7 @@
   "time": "Time",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
+  "privacyNote": "/data/privacyNote.md",
   "footer": {
     "blog": "Blog"
   },
@@ -54,6 +56,16 @@
           "name": "Call for Papers",
           "url": "https://bit.ly/df19-cfp",
           "newTab": true
+        },
+        {
+          "name": "Code of conduct",
+          "url": "/cod/",
+          "newTab": true
+        },
+        {
+          "name": "Privacy Note",
+          "url": "/privacyNote/",
+          "newTab": false
         }
       ]
     }
@@ -63,21 +75,16 @@
   "aboutBlock": {
     "title": "What you need to know, before you ask.",
     "callToAction": {
-      "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-      },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "GDG DevFest Wrocław 2019 brings together the world class experts in Android, Web and Cloud technologies to Wroclaw for 2 days of sessions, workshops and showcases.",
+        "label": "See how it was in 2018",
+        "youtubeId": "wTQuM6SKDQI"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "300"
       },
       "days": {
         "label": "Days",
@@ -85,11 +92,11 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "30"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "2"
       }
     }
   },
@@ -168,7 +175,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Wroclaw sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
